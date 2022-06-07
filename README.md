@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdnanGlc
-- 👀 I’m interested in c,c++,c#
-- 🌱 I’m currently learning c#
+- 👀 I’m interested in C,C++,C#
+- 🌱 I’m currently learning C#
 - 📫 How to reach me adnangalijasevic@gmail.com
 
 <!---
